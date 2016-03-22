@@ -22,6 +22,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.hcititembanksys.CmxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.DqxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.DzxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.GjjActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.JcbActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.JdxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.JtxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.QcxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.ShkxActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.SxyActivity"></activity>
+        <activity android:name="com.example.hcititembanksys.WdlActivity"></activity>
     </application>
 
 </manifest>
